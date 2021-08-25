@@ -1,0 +1,30 @@
+{
+  "name": "Botstrap 5_2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.14.6",
+    "@babel/preset-env": "^7.14.7",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-sass": "^5.0.0",
+    "sass": "^1.36.0"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.3.1",
+    "bootstrap": "^5.0.2",
+    "browser-sync": "^2.27.4",
+    "del": "^6.0.0",
+    "gulp-uglify-es": "^2.0.0"
+  },
+  "description": ""
+}
